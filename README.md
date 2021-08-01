@@ -13,4 +13,6 @@ with this python script we can convert multiple document files into pdf files at
 - and then _Run_ the Script.
 - you will get your files at the location which you enter for the output.   
 
+for more [Angryl](https://github.com/Angryl/)
+
 
